@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Hannah Miao, Joe Wallace, Brenda León, David Marino-Nachison, Charley Grant, Caitlin McCabe",
+    "title": "Stock Market Today: Dow & S&P 500 Up in Midday Trading; First Republic Stock Leaps - The Wall Street Journal",
+    "description": "Live updates of what's moving markets, including the Dow, S&P 500 and Nasdaq Composite.",
+    "url": "https://www.wsj.com/livecoverage/stock-market-news-today-03-21-2023",
+    "urlToImage": "https://images.wsj.net/im-589547/social",
+    "publishedAt": "2023-03-21T16:42:02Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jackie Wattles",
+    "title": "Researchers 3D printed this cheesecake - CNN",
+    "description": "Researchers have been pushing the limits of 3D printing for decades, using the manufacturing technique to churn out human organs, rocket parts and more. But can the technology be applied to make a fully baked dessert? A team of engineers revealed the results …",
+    "url": "https://www.cnn.com/2023/03/21/world/3d-printed-food-cheesecake-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230320120156-02-3d-printing-food-cheesecake.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-03-21T16:33:41Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more. \r\nResearchers have been pushing the limits of 3D printi… [+6858 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Nvidia pairs with Oracle, other cloud providers to spread AI technology - Reuters",
+    "description": "Nvidia Corp <a href=\"https://www.reuters.com/companies/NVDA.O\" target=\"_blank\">(NVDA.O)</a> Chief Executive Jensen Huang on Tuesday unveiled new cloud computing services with Oracle Corp <a href=\"https://www.reuters.com/companies/ORCL.N\" target=\"_blank\">(ORCL…",
+    "url": "https://www.reuters.com/technology/nvidia-set-reveal-new-ai-technologies-annual-conference-2023-03-21/",
+    "urlToImage": "https://www.reuters.com/resizer/XJt3E7YrrE6OCj0GDrbpdRo2CIM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2AMJ7RHVKFM75D2HO4GJCMFIOQ.jpg",
+    "publishedAt": "2023-03-21T16:33:00Z",
+    "content": "March 21 (Reuters) - Nvidia Corp (NVDA.O) Chief Executive Jensen Huang on Tuesday unveiled new cloud computing services with Oracle Corp (ORCL.N) and others as it rolled out an array of new artificia… [+3572 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Lauren Leffer",
+    "title": "Coinbase Heads to the Supreme Court in First Crypto Case - Gizmodo",
+    "description": "The nation's highest court will hear arguments on Tuesday over whether the crypto exchange Coinbase is allowed to force customers into arbitration.",
+    "url": "https://gizmodo.com/crypto-coinbase-supreme-court-scotus-1850247156",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f18b109e780d9193c4d9521e95a5113b.png",
+    "publishedAt": "2023-03-21T15:50:00Z",
+    "content": "Cryptocurrencies and crypto exchanges have gotten all sorts of federal attention in recent years. From the Securities and Exchange Commission to the Department of Justice to the U.S. Senatemany gover… [+3837 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WFSB"
+    },
+    "author": null,
+    "title": "Frozen fruit recall issued after Hepatitis A outbreak - Eyewitness News 3",
+    "description": "Scenic Fruit Company has issued a recall for frozen strawberries and an organic tropical blend due to an outbreak of Hepatitis A.",
+    "url": "https://www.wfsb.com/2023/03/21/frozen-fruit-recall-issued-after-hepatitis-outbreak/",
+    "urlToImage": "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/1VYRtrdlmeHA2zAF2Eu2nXNIwWA=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/XXJPVT32ERFRBG7J7RLZDCEB4Q.png",
+    "publishedAt": "2023-03-21T15:47:00Z",
+    "content": "(Gray News) Scenic Fruit Company has issued a recall for frozen strawberries and an organic tropical blend due to an outbreak of Hepatitis A.\r\nAccording to the FDA, the strawberries were sold at Cost… [+1437 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/jon-fingas",
+    "title": "Ford unveils an electric Explorer crossover built for Europe's narrow streets - Engadget",
+    "description": "Ford has unveiled an electric version of the Explorer, but it's only headed to Europe..",
+    "url": "https://www.engadget.com/ford-unveils-an-electric-explorer-crossover-built-for-europes-narrow-streets-144516934.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.5TgfAYKbIxiLCmnFtqNmA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fcb30e10-c7e3-11ed-bace-4839d6ea48dc.cf.jpg",
+    "publishedAt": "2023-03-21T14:46:45Z",
+    "content": "Ford has finally shown the medium-sized electric crossover it teased last year, and it might not be what you expect. The company has unveiled an electric Explorer that's \"designed for Europe\" and as … [+2046 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Greg Ip",
+    "title": "SVB-Fueled Turmoil Junks Lessons of the Global Financial Crisis - The Wall Street Journal",
+    "description": "Fed, Congress thought smaller banks, deposits and bonds were boring and safe; instead, they are the source of new fragility",
+    "url": "https://www.wsj.com/articles/svb-fueled-turmoil-junks-lessons-of-the-global-financial-crisis-e3240816",
+    "urlToImage": "https://images.wsj.net/im-747452/social",
+    "publishedAt": "2023-03-21T14:36:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Rohan Goswami",
+    "title": "Adobe launches Firefly generative A.I., which lets users type to edit images - CNBC",
+    "description": "Adobe entered the AI race with Firefly, a family of models the company says it will integrate into existing products to help users work efficiently and freely.",
+    "url": "https://www.cnbc.com/2023/03/21/adobe-firefly-generative-ai-lets-you-type-to-edit-images.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107141190-1666804464743-Handout_David_at_MAX.jpg?v=1679409078&w=1920&h=1080",
+    "publishedAt": "2023-03-21T14:31:18Z",
+    "content": "Adobe on Tuesday launched an artificial intelligence tool called Firefly that will let users type commands to quickly modify images.\r\nThe first Firefly model is focused on the creation of images and … [+1697 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Canada Feb inflation rate slowest in 13 months, backing up rate pause - Reuters.com",
+    "description": "Canada's inflation rate slowed more than expected in February to its lowest level in 13 months, data showed on Tuesday, backing up the central bank's plans to hold off on further interest rates hikes.",
+    "url": "https://www.reuters.com/markets/canadas-annual-inflation-rate-eases-more-than-expected-feb-2023-03-21/",
+    "urlToImage": "https://www.reuters.com/resizer/ZWSv_JL_7zFH-QcmUqpAAhu6zDc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O3QPNLSLGRPRXOLP2GNUAOM7CM.jpg",
+    "publishedAt": "2023-03-21T14:27:00Z",
+    "content": "OTTAWA, March 21 (Reuters) - Canada's inflation rate slowed more than expected in February to its lowest level in 13 months, data showed on Tuesday, backing up the central bank's plans to hold off on… [+3158 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Brian Slodysko",
+    "title": "Army of lobbyists helped water down banking regulations - The Associated Press",
+    "description": "WASHINGTON (AP) — It seemed like a good idea at the time: Red-state Democrats facing grim reelection prospects would join forces with Republicans to slash bank regulations — demonstrating a willingness to work with President Donald Trump while bucking many in…",
+    "url": "https://apnews.com/article/banking-crisis-congress-lobbying-svb-c2bc00ad41ae7fd1ec9d0ffb781383f2",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/b010b3e0fc8b4af2b22d32147c179516/3000.webp",
+    "publishedAt": "2023-03-21T14:24:10Z",
+    "content": "WASHINGTON (AP) It seemed like a good idea at the time: Red-state Democrats facing grim reelection prospects would join forces with Republicans to slash bank regulations demonstrating a willingness t… [+7948 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Diana Olick",
+    "title": "Home sales spike in February, median price drops - CNBC",
+    "description": "Sales of previously owned homes rose 14.5% in February compared with January, according to a seasonally adjusted count by the National Association of Realtors.",
+    "url": "https://www.cnbc.com/2023/03/21/february-home-sales-spike.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107204569-1678216205655-gettyimages-1247348303-US_HOMES_SALES.jpeg?v=1679416861&w=1920&h=1080",
+    "publishedAt": "2023-03-21T14:00:12Z",
+    "content": "Sales of previously owned homes rose 14.5% in February compared with January, according to a seasonally adjusted count by the National Association of Realtors. That put sales at an annualized rate of… [+3219 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "JR Research",
+    "title": "Ally Financial: Buy Ahead Of Warren Buffett (NYSE:ALLY) - Seeking Alpha",
+    "description": "Berkshire Hathaway is Ally Financial's second-largest shareholder. A research firm speculated that ALLY could be a Buffett takeover target. Click here for more.",
+    "url": "https://seekingalpha.com/article/4588978-ally-financial-buy-ahead-of-warren-buffett",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/184769358/image_184769358.jpg?io=getty-c-w1536",
+    "publishedAt": "2023-03-21T13:59:20Z",
+    "content": "Paul Morigi\r\nAlly Financial Inc. (NYSE:ALLY) has not been spared from the recent furor over the banking sector, as investors fret over whether a broader financial contagion could be stymied.\r\nJPMorga… [+7158 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Patrick Clark, John Gittelsohn and Jennifer Epstein",
+    "title": "After Signature Bank Deal, FDIC Is Left With $11 Billion in ‘Toxic Waste’ Loans - Yahoo Finance",
+    "description": "(Bloomberg) -- Signature Bank’s partial takeover by a competitor is notable for what it doesn’t include: $11 billion of loans against a class of New York...",
+    "url": "https://finance.yahoo.com/news/signature-bank-deal-fdic-left-135604132.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yLU3nvjkyX1Ur188ZZ6.Zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/05890b7369564d066439a93d0c2c68b0",
+    "publishedAt": "2023-03-21T13:56:04Z",
+    "content": "(Bloomberg) -- Signature Banks partial takeover by a competitor is notable for what it doesnt include: $11 billion of loans against a class of New York City apartments whose values have tumbled in re… [+3656 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Whec.com"
+    },
+    "author": "Evan Bourtis",
+    "title": "Four businesses damaged around Dewey Ave - News10NBC",
+    "description": "ROCHESTER, N.Y. — Four businesses were damaged in smash-and-grab burglaries on Tuesday night before 5 a.m. around the Dewey Avenue area. Rochester Police say that Kia and Hyundai cars were used in all of the burglaries and they have evidence that at least one…",
+    "url": "https://www.whec.com/top-news/four-businesses-damaged-around-dewey-ave/",
+    "urlToImage": "https://www.whec.com/wp-content/uploads/akta/A7AEE8FDC9800F46A9121819B0B200C9.jpg",
+    "publishedAt": "2023-03-21T13:52:30Z",
+    "content": "ROCHESTER, N.Y. Four businesses were damaged in smash-and-grab burglaries on Tuesday night before 5 a.m. around the Dewey Avenue area. Rochester Police say that Kia and Hyundai cars were used in all … [+1385 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Medora Lee, USA TODAY",
+    "title": "Used-car prices are going up: Here's a look at why - USA TODAY",
+    "description": "Used-car prices are rising again, reversing a recent downtrend. What's that mean for your budget, inflation, and the Fed's approach to interest rates?",
+    "url": "https://www.usatoday.com/story/money/personalfinance/2023/03/21/used-car-prices-inflation-fed/11493470002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/31/USAT/fa708b4c-bdd6-44a4-bd09-d9ba8a4ac893-CapOne_1.jpg?auto=webp&crop=2151,1210,x0,y88&format=pjpg&width=1200",
+    "publishedAt": "2023-03-21T13:46:43Z",
+    "content": "Consumers who want to spend their tax refunds on a car may be disappointed this spring: Prices are rising. \r\nSignals from the used-car market are flashing higher prices ahead, reversing a decline tha… [+4141 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Gary Gastelu",
+    "title": "Dodge CEO explains why he's killing the brand's V8 muscle cars - Fox Business",
+    "description": "The Dodge Challenger SRT Demon 170 is the most powerful car the brand has ever made and will be the last V8 muscle car it builds before switching to electric.",
+    "url": "https://www.foxbusiness.com/lifestyle/dodge-ceo-explains-killing-v8-muscle-cars",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/demon-wheelie.jpg?ve=1&tl=1",
+    "publishedAt": "2023-03-21T13:41:15Z",
+    "content": "Dodge just had a mic-drop moment.\r\nThe Challenger SRT Demon 170, unveiled in Las Vegas on Monday night, is the most powerful muscle car ever.\r\nThe 900-horsepower coupe runs on gasoline but can produc… [+3725 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "Clark Schultz",
+    "title": "Knight-Swift Transportation swallows up U.S. Xpress Enterprises for $808M - Seeking Alpha",
+    "description": "Knight-Swift Transportation (KNX) struck a deal on Tuesday to acquire U.S. Xpress (USX) for a total enterprise value of approximately $808M, excluding transaction costs. Read more.",
+    "url": "https://seekingalpha.com/news/3949432-knight-swift-transportation-swallows-up-us-xpress-enterprises-for-808m-in-major-trucking-deal",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403479106/image_1403479106.jpg?io=getty-c-w750",
+    "publishedAt": "2023-03-21T13:15:35Z",
+    "content": "Parradee Kietsirikul\r\nKnight-Swift Transportation (NYSE:KNX) struck a deal on Tuesday to acquire U.S. Xpress (NYSE:USX) for a total enterprise value of approximately $808M, excluding transaction cost… [+845 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ivan Mehta",
+    "title": "Adobe Express launches an enterprise tier with generative AI tools - TechCrunch",
+    "description": "Adobe launched the enterprise tier of its creative platform Adobe Express today at the company's Adobe Summit event.",
+    "url": "https://techcrunch.com/2023/03/21/adobe-express-launches-an-enterprise-tier-with-generative-ai-tools/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/Adobe-Express-Image-2.jpg?resize=1200,705",
+    "publishedAt": "2023-03-21T13:06:00Z",
+    "content": "Adobe launched the enterprise tier of its creative application Adobe Express today at the company’s Adobe Summit event. The enterprise subscription will also let organizations access Adobe Firefly th… [+2104 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "CNBC Fed Survey: 72% respondents say Fed will hike - CNBC Television",
+    "description": "CNBC's Steve Liesman reports on news from the CNBC Federal Reserve survey. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cn...",
+    "url": "https://www.youtube.com/watch?v=WVZkSlG17Cc",
+    "urlToImage": "https://i.ytimg.com/vi/WVZkSlG17Cc/maxresdefault.jpg",
+    "publishedAt": "2023-03-21T13:02:10Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Ryan Browne",
+    "title": "Silicon Valley Bank collapse was 'Lehman moment for technology,' top Goldman Sachs deal-maker says - CNBC",
+    "description": "The collapse of Silicon Valley Bank was \"a little bit like the Lehman moment for technology,\" a top Goldman Sachs deal-maker told CNBC.",
+    "url": "https://www.cnbc.com/2023/03/21/svb-collapse-was-lehman-moment-for-technology-goldman-sachs.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107211000-1679083940063-gettyimages-1472601077-0j7a2973_6tpmywbp.jpeg?v=1679403013&w=1920&h=1080",
+    "publishedAt": "2023-03-21T12:50:13Z",
+    "content": "The collapse of Silicon Valley Bank was a \"Lehman moment\" for the technology industry, according to a top Goldman Sachs deal-maker.\r\nCliff Marriott, co-head of technology, media and telecoms in Europ… [+3218 chars]"
+    }
+    ]
+    }
